@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing App Component should render correctly 1`] = `
+<div
+  className="App"
+>
+  <h1>
+    Você tem 
+    20
+     counters
+  </h1>
+</div>
+`;
+
+exports[`Testing App Component should render correctly 2`] = `
+<div
+  className="App"
+>
+  <h1>
+    Você tem 
+    10
+     counters
+  </h1>
+</div>
+`;

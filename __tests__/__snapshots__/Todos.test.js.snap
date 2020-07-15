@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`My Connected React-Redux Component should render correctly 1`] = `
+Array [
+  <h2>
+    OLA AMIGOS TERRAQUEOS
+  </h2>,
+  <ul
+    className="Todos"
+  >
+    <li>
+      Fazer café
+    </li>
+    <li>
+      Acessar o slack
+    </li>
+    <li>
+      Beber água
+    </li>
+  </ul>,
+]
+`;
